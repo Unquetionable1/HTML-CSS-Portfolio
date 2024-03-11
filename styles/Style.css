@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+}
+div {
+    background-color: white;
+    padding: 20px;
+
+}
+
+.container {
+    padding: 20%;
+    background-image: url(../Images/backgrounds/mountain.jpeg);
+}
+
+h1,h2 {
+    text-align: center;
+
+}
+
+.content {
+    padding: 20px;
+
+}
+
+img {
+    max-width:100%;
+    width: 100%;
+    height: auto;
+    border-radius: 40%;
+    overflow: hidden;
+}
+
+#Phno {
+    text-decoration-color: azure;
+}
+
+.footer {
+    align-content: center;
+}
+
+#footer{
+    height:auto;
+    text-decoration-color: black;
+}
